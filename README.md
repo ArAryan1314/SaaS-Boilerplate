@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://react-saas.com/>
+>
+> [![Standard CI](https://github.com/ArAryan1314/SaaS-Boilerplate/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/SaaS-Boilerplate/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 # Free and Open Source SaaS Boilerplate with Tailwind CSS and Shadcn UI
 
 <p align="center">
